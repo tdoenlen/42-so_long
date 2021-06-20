@@ -1,0 +1,6 @@
+.*
+*.o
+*.swiftdoc
+*.swiftmodule
+so_long
+libmlx.dylib
